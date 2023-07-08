@@ -19,3 +19,12 @@ Program to Print Some Real Shit!
 
 Don't worry! You will be cool like me someday!
 And That someday will never come!
+
+#include<stdio.h>
+int main()
+{
+printf("*\n*\t*\n*\t*\t*\n*\t*\t*\t*");
+return 0;
+}
+i am not that cool ok!
+its just for a commit afterall!
